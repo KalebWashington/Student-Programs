@@ -1,0 +1,22 @@
+﻿  Source.cpp
+c:\users\alan\google drive\mckendree\classes\spring 2017\compilers\scanner\scanner\source.cpp(71): warning C4551: function call missing argument list
+c:\users\alan\google drive\mckendree\classes\spring 2017\compilers\scanner\scanner\source.cpp(135): warning C4101: 'test': unreferenced local variable
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(1005): error C2672: 'std::_Iter_cat': no matching overloaded function found
+  c:\users\alan\google drive\mckendree\classes\spring 2017\compilers\scanner\scanner\source.cpp(480): note: see reference to function template instantiation 'void std::advance<char,int>(_InIt &,_Diff)' being compiled
+          with
+          [
+              _InIt=char,
+              _Diff=int
+          ]
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(1005): error C2893: Failed to specialize function template 'iterator_traits<_Iter>::iterator_category std::_Iter_cat(const _Iter &)'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(1005): note: With the following template arguments:
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(1005): note: '_Iter=char'
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(1005): error C2672: 'std::_Advance': no matching overloaded function found
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(1005): error C2780: 'void std::_Advance(_RanIt &,_Diff,std::random_access_iterator_tag)': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(996): note: see declaration of 'std::_Advance'
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(1005): error C2780: 'void std::_Advance(_BidIt &,_Diff,std::bidirectional_iterator_tag)': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(986): note: see declaration of 'std::_Advance'
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(1005): error C2780: 'void std::_Advance(_FwdIt &,_Diff,std::forward_iterator_tag)': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(973): note: see declaration of 'std::_Advance'
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(1005): error C2780: 'void std::_Advance(_InIt &,_Diff,std::input_iterator_tag)': expects 3 arguments - 2 provided
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xutility(960): note: see declaration of 'std::_Advance'

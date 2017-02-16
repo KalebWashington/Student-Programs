@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\alan\google drive\mckendree\classes\spring 2017\compilers\scanner\scanner\source.cpp(74): warning C4551: function call missing argument list
+c:\users\alan\google drive\mckendree\classes\spring 2017\compilers\scanner\scanner\source.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\alan\google drive\mckendree\classes\spring 2017\compilers\scanner\scanner\source.cpp(118): warning C4018: '<': signed/unsigned mismatch
+c:\users\alan\google drive\mckendree\classes\spring 2017\compilers\scanner\scanner\source.cpp(406): warning C4018: '>': signed/unsigned mismatch
+c:\users\alan\google drive\mckendree\classes\spring 2017\compilers\scanner\scanner\source.cpp(414): warning C4129: 'I': unrecognized character escape sequence
+c:\users\alan\google drive\mckendree\classes\spring 2017\compilers\scanner\scanner\source.cpp(428): warning C4018: '>': signed/unsigned mismatch
+c:\users\alan\google drive\mckendree\classes\spring 2017\compilers\scanner\scanner\source.cpp(138): warning C4101: 'test': unreferenced local variable
+  Scanner.vcxproj -> C:\Users\Alan\Google Drive\McKendree\Classes\Spring 2017\Compilers\Scanner\Debug\Scanner.exe
